@@ -60,8 +60,7 @@ class LineBotController < ApplicationController
                     }
                 ]
             }
-          }
-        end
-      end
+        }
+    end
 end
 
